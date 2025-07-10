@@ -21,7 +21,7 @@ O sistema busca as lives e eventos agendados dos canais configurados, aplica reg
 ## Requisitos
 - Python 3.8+
 - obsws_python
-- python-dotenv
+- pyyaml
 
 ## Estrutura
 - `app/` — Código principal do sistema
